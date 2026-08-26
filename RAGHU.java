@@ -4,9 +4,9 @@
 
 //this is  anew feature Demo
 
-Class RAGHU
+class RAGHU
 {
-Public Static Void Main(String[] args)
+public static void main(String[] args)
 {
 
 System.out.println("Hello");
